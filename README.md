@@ -9,7 +9,7 @@
    Instagram: https://bityli.com/pa6Ug4
 
 ✨ Tools: Vs code, Figma, GitHub. 
-⚡ Skills: HTML, CSS, JavaScript, Angular
+⚡ Skills: HTML, CSS, JavaScript, Angular, React.js
 
  <div>
   <a href="https://github.com/querensales">

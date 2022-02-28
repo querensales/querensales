@@ -1,12 +1,10 @@
-## I'm Sales...Queren Sales ✨
-#### 📚 Development student 
-#### 🖥️ dev front-end Jr
-#### 👩‍🍼 Olivia's mother
 
- <div>
+ ## I'm Queren Sales ✨  | 📚 Development student | 🖥️ dev front-end Jr 
+
+<div align="center">
   <a href="https://github.com/querensales">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=querensales&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=querensales&layout=compact&langs_count=7&theme=omni"/>
+    <img height="163em" src="https://github-readme-stats.vercel.app/api?username=querensales&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=querensales&layout=compact&langs_count=7&theme=omni"/>
   </a>
 </div>
 
@@ -19,7 +17,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <hr>
-<div> 
+<div  align="center"> 
 
   <a href="https://instagram.com/querensaless" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/querensales" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>

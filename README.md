@@ -1,12 +1,12 @@
 ## Oi oi gente! 👋
 
-💻 Desenvolvedora **Front-End**, há 3 anos criando interfaces responsivas, acessíveis e performáticas. Trabalho com React, TypeScript e JavaScript, sempre buscando entregar código limpo e soluções eficientes.
+💻 Desenvolvedora **Front-End**, há 3 anos criando interfaces responsivas, acessíveis e performáticas. Trabalho com React, TypeScript e JavaScript.
 
 🛠️ Também gosto de explorar UX/UI, design de produto e testes automatizados (Cypress, Jest), porque um bom software precisa ser bonito, funcional e confiável.
 
 🎶 Fora do mundo do código, sou musicista, cantora e tecladista. Nada como uma boa melodia para inspirar criatividade!
 
-📚 Sempre aprendendo algo novo e compartilhando conhecimento. Vamos trocar ideias? Me encontre por aqui ou no LinkedIn! 🚀
+📚 Sempre aprendendo algo novo e compartilhando conhecimento. Vamos trocar ideias? Me encontre no LinkedIn! 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

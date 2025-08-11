@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora **Front-End**, há 3 anos criando interfaces responsivas, acessíveis e performáticas. Trabalho com React, TypeScript e JavaScript.
 
-🛠️ Também gosto de explorar UX/UI, design de produto e testes automatizados (Cypress, Jest), porque um bom software precisa ser bonito, funcional e confiável.
+🛠️ Também gosto de explorar UX/UI, design de produto e testes automatizados (Cypress), porque um bom software precisa ser bonito, funcional e confiável.
 
 🎶 Fora do mundo do código, sou musicista, cantora e tecladista. Nada como uma boa melodia para inspirar criatividade!
 
